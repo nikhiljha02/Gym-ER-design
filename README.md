@@ -1,4 +1,4 @@
-🏋️ Fitness Coaching Platform – ER Diagram diagram
+🏋️ Fitness Coaching Platform – ER Diagram 
 
 This repository contains the database design and ER diagram for an online fitness coaching platform.
 The system is designed for trainers/influencers who manage clients, plans, subscriptions, payments, sessions, check-ins, progress, and diet plans.
